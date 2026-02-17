@@ -171,3 +171,4 @@ if st.session_state.logged_in:
     dashboard()
 else:
     login_page()
+# Added monthly temperature trend and cleaned datetime handling
