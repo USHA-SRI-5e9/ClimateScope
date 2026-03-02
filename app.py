@@ -112,7 +112,7 @@ def load_and_clean_data():
 def dashboard():
 
     st.sidebar.title("🌡 ClimateScope")
-
+    st.write("Milestone 2 Version")
     menu = st.sidebar.radio(
         "Navigation",
         [
